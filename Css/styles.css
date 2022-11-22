@@ -210,3 +210,18 @@ a {
     width: 50%;
 }
 /* watch section */
+.watch {
+    padding: 0 1.5em 2.5em;
+    display: flex;
+    align-items: flex-start;
+    flex-direction: column;
+    justify-content: flex-start;
+    margin: 1em 0;
+    border-bottom: 7px solid rgb(40, 40, 40);
+}
+/* .watch h1 {
+    margin: 0 0 1.5em;
+}
+.watch h3 {
+    margin: 0 0 1.5em;
+} */
