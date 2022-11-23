@@ -9,6 +9,7 @@ Here are some of the snapshot of what will be rendered
 
 ![This is an image](./images/first-section.png)
 ![This is an image](./images/second-section.png)
+![This is an image](./images/third-section.png)
 
 ## **Installation**
 
