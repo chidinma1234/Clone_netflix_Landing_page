@@ -11,3 +11,7 @@ Here are the snapshot of what will be rendered
 ## Demo
 
 Here is a link to a live demo:https://chidinma1234.github.io/Netflix-Landing-page/
+
+## Screenshots
+
+![This is an image](./images/first-section.png)
